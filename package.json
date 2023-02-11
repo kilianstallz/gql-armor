@@ -1,0 +1,12 @@
+{
+  "name": "gqlarmor",
+  "version": "0.1.0-beta.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "npx bumpp package.json --commit --push --tag"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
