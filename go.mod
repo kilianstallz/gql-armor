@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/99designs/gqlgen v0.17.24
-	github.com/gavv/httpexpect/v2 v2.13.0
+	github.com/gavv/httpexpect/v2 v2.14.0
 	github.com/vektah/gqlparser/v2 v2.5.1
 )
 
@@ -39,7 +39,7 @@ require (
 	github.com/yudai/gojsondiff v1.0.0 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.6.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
