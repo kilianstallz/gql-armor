@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/99designs/gqlgen v0.17.27
 	github.com/gavv/httpexpect/v2 v2.14.0
-	github.com/vektah/gqlparser/v2 v2.5.1
+	github.com/vektah/gqlparser/v2 v2.5.10
 )
 
 require (
