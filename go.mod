@@ -1,11 +1,13 @@
 module github.com/kilianstallz/gql-armor
 
-go 1.20
+go 1.21
+
+toolchain go1.23.2
 
 require (
 	github.com/99designs/gqlgen v0.17.40
 	github.com/gavv/httpexpect/v2 v2.14.0
-	github.com/vektah/gqlparser/v2 v2.5.10
+	github.com/vektah/gqlparser/v2 v2.5.18
 )
 
 require (
@@ -29,7 +31,7 @@ require (
 	github.com/sanity-io/litter v1.5.5 // indirect
 	github.com/sergi/go-diff v1.3.1 // indirect
 	github.com/sosodev/duration v1.1.0 // indirect
-	github.com/stretchr/testify v1.8.2 // indirect
+	github.com/stretchr/testify v1.9.0 // indirect
 	github.com/urfave/cli/v2 v2.25.5 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.44.0 // indirect
